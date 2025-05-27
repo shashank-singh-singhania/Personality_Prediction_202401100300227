@@ -89,8 +89,8 @@ Embed this function into a Flask / FastAPI / Streamlit app to serve live predict
 ## 🖼 Example Output
 
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/d93bd51b-a7e0-4f55-baa1-07f84bbddb33)
-" width="480" alt="Bar chart of MBTI class counts">
+  <img src="" width="480" ![WhatsApp Image 2025-05-27 at 12 46 58 PM](https://github.com/user-attachments/assets/84d7a652-d190-46fe-b636-38b312cc29dd)
+
 </div>
 
 ---
